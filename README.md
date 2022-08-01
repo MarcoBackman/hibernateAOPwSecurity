@@ -10,7 +10,7 @@ Advice(MVC) custom exception with execution loggers.
 
 <img src="/img/ER%20diagram.png" width="900">
 
-# Application website
+# API request
 <div align="center">
   <img src="/img/1-loginfail.PNG" width="700">
   <img src="/img/2-loginSuccesslog.PNG" width="700">
