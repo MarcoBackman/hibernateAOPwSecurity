@@ -8,7 +8,7 @@ Advice(MVC) custom exception with execution loggers.
 
 # Database Schema
 
-<img src="/img/ER%20diagram.png" width="1100">
+<img src="/img/ER%20diagram.png" width="900">
 
 # Application website
 <div align="center">
